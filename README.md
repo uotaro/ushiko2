@@ -7,7 +7,7 @@
 
 ### 渋谷
 
-1. ヒカリエ([①](./tips/s32.md#shibuya1) [②](./tips/s32.md#s02_00:42_渋谷ヒカリエ改札前))
+1. ヒカリエ([①](./tips/s32.md#shibuya1) [②](./tips/s32.md#shibuya2))
 1. ヒカリエ改札１([⑯](./tips/s36.md#shibuya16) [⑰](./tips/s32_34.md#shibuya17))
 1. ヒカリエ改札内＆トイレ([⑱](./tips/s32_34.md#shibuya18) [⑳](#shibuya20) [㉕](#shibuya25) [㉖](#shibuya26))
 1. 副都心線B5Fホーム([③](./tips/s32_34.md#shibuya3) [④](./tips/s32_34.md#shibuya4) [⑤](./tips/s32_34.md#shibuya5) [⑩](./tips/s32_34.md#shibuya10) )
